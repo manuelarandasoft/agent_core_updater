@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Aranda.Common.Agent.Updater.CLI": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net48</TargetFrameworks>
+    <LangVersion>latest</LangVersion>
+    <OutputPath>$(BaseOutputPath)</OutputPath>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <DefineConstants>USE_UNITY</DefineConstants>
+    <OutputPath>$(BaseOutputPath)</OutputPath>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
